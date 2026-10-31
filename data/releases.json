@@ -197,7 +197,252 @@
   {
     "date": "2026-10-23",
     "label": "Week of October 17–23, 2026",
-    "albums": []
+    "albums": [
+      {
+        "artist": "Kid Rock",
+        "title": "Halfway 2 Jesus"
+      },
+      {
+        "artist": "Ryan Hemsworth",
+        "title": "Numbskull"
+      },
+      {
+        "artist": "Anderson .Paak and Cordae",
+        "title": "Heavy Is the Crown"
+      },
+      {
+        "artist": "Art d'Ecco",
+        "title": "Scheele's Green"
+      },
+      {
+        "artist": "Baby Lasagna",
+        "title": "End the Party"
+      },
+      {
+        "artist": "Bernie Taupin",
+        "title": "The Sea Has No Mercy"
+      },
+      {
+        "artist": "Brakence",
+        "title": "Marrow"
+      },
+      {
+        "artist": "Brothers Osborne",
+        "title": "Watertown"
+      },
+      {
+        "artist": "The Buoys",
+        "title": "Concrete Cowboy"
+      },
+      {
+        "artist": "Caroline Rose",
+        "title": "Gentling the Horse at the Walt Whitman Mall"
+      },
+      {
+        "artist": "Clara Mann",
+        "title": "Wishbone"
+      },
+      {
+        "artist": "Claud",
+        "title": "Me and the Music"
+      },
+      {
+        "artist": "Dan Sultan",
+        "title": "Little Miracles"
+      },
+      {
+        "artist": "Dragonland",
+        "title": "Prophecies"
+      },
+      {
+        "artist": "Dustin Kensrue",
+        "title": "That Spirit of Christmas"
+      },
+      {
+        "artist": "Entheos",
+        "title": "Empty on the Inside"
+      },
+      {
+        "artist": "Fenne Lily",
+        "title": "Win Win"
+      },
+      {
+        "artist": "Fine",
+        "title": "Jazz Dreams"
+      },
+      {
+        "artist": "The Flower Kings",
+        "title": "Hope"
+      },
+      {
+        "artist": "Forbidden",
+        "title": "Forbidden"
+      },
+      {
+        "artist": "GDP",
+        "title": "Cross Off Matthew"
+      },
+      {
+        "artist": "Get the Shot",
+        "title": "Crucifixion Depiction"
+      },
+      {
+        "artist": "Ghostemane",
+        "title": "AM:FM"
+      },
+      {
+        "artist": "Grey DeLisle",
+        "title": "Don't Turn Around"
+      },
+      {
+        "artist": "Gus Dapperton",
+        "title": "4 Dear Life"
+      },
+      {
+        "artist": "Hilary Duff",
+        "title": "Holiday Things"
+      },
+      {
+        "artist": "HMLTD",
+        "title": "Fangs"
+      },
+      {
+        "artist": "James Brandon Lewis",
+        "title": "Calling Antonín"
+      },
+      {
+        "artist": "Jazzy",
+        "title": "Peace & Patience"
+      },
+      {
+        "artist": "John Legend",
+        "title": "Muse"
+      },
+      {
+        "artist": "Kendall Street Company",
+        "title": "Yodeling Astroman"
+      },
+      {
+        "artist": "Lisa",
+        "title": "Press Play"
+      },
+      {
+        "artist": "LoCash",
+        "title": "Chris & Preston"
+      },
+      {
+        "artist": "Manic Street Preachers",
+        "title": "The Holy Bible Live"
+      },
+      {
+        "artist": "Mason Hill",
+        "title": "World So Wonderful"
+      },
+      {
+        "artist": "Matt Lang",
+        "title": "Ain't That Bad"
+      },
+      {
+        "artist": "Mental Cruelty",
+        "title": "Echoes of a Forlorn Land"
+      },
+      {
+        "artist": "Michael Kiwanuka",
+        "title": "Fudge"
+      },
+      {
+        "artist": "Muireann Bradley",
+        "title": "Blackwood Pew"
+      },
+      {
+        "artist": "Nasty",
+        "title": "Trauma"
+      },
+      {
+        "artist": "Nathan Fake",
+        "title": "Caldera"
+      },
+      {
+        "artist": "Offset",
+        "title": "GMFU"
+      },
+      {
+        "artist": "The Olivia Tremor Control",
+        "title": "The Same Place"
+      },
+      {
+        "artist": "Orchestra Baobab",
+        "title": "Made in Senegal"
+      },
+      {
+        "artist": "Polyphia",
+        "title": "Be Not Afraid"
+      },
+      {
+        "artist": "Sasha Alex Sloan",
+        "title": "And the Crowd Goes Mild"
+      },
+      {
+        "artist": "Sen Morimoto",
+        "title": "Time Is on Your Side"
+      },
+      {
+        "artist": "Shabazz Palaces",
+        "title": "It's a Style Sport"
+      },
+      {
+        "artist": "Shit and Shine",
+        "title": "0 aa Riot"
+      },
+      {
+        "artist": "The Snuts",
+        "title": "Joy in Short Moments"
+      },
+      {
+        "artist": "Sour Widows",
+        "title": "Sigil"
+      },
+      {
+        "artist": "Stand Atlantic",
+        "title": "Godbreath"
+      },
+      {
+        "artist": "Strawberry Guy",
+        "title": "Give Me a Dream"
+      },
+      {
+        "artist": "Timmy Trumpet",
+        "title": "Revelations"
+      },
+      {
+        "artist": "Tommy Lefroy",
+        "title": "The Precariat"
+      },
+      {
+        "artist": "Tony Iommi",
+        "title": "From the Dark"
+      },
+      {
+        "artist": "William Basinski",
+        "title": "Passing the Cup of Sorrows"
+      },
+      {
+        "artist": "Windwaker",
+        "title": "Smile, You're on Camera"
+      },
+      {
+        "artist": "Winona Oak",
+        "title": "Bloom"
+      },
+      {
+        "artist": "Wolves in the Throne Room",
+        "title": "Estuary"
+      },
+      {
+        "artist": "Yung Miami",
+        "title": "Watch Dis"
+      }
+    ]
   },
   {
     "date": "2026-10-16",
