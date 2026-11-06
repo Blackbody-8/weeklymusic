@@ -1,5 +1,263 @@
 [
   {
+    "date": "2026-11-06",
+    "label": "Week of October 31 – November 6, 2026",
+    "albums": [
+      {
+        "artist": "Liffey Light Orchestra",
+        "title": "Ana Livia"
+      },
+      {
+        "artist": "BOM ( Miranda! and Lali )",
+        "title": "Bailar o Morir"
+      },
+      {
+        "artist": "Yoasobi",
+        "title": "Yoasobi 5th Anniversary Dome Live 2024 \"Chō-genjitsu\" at Tokyo Dome"
+      },
+      {
+        "artist": "Alanis Morissette",
+        "title": "Good Weather for Immaculate Conception"
+      },
+      {
+        "artist": "Asia",
+        "title": "Indigo"
+      },
+      {
+        "artist": "Bad Brains",
+        "title": "Are You Ready: The First Studio Recording (Inner Ear – March 1979)"
+      },
+      {
+        "artist": "Bassvictim",
+        "title": "Peace + War"
+      },
+      {
+        "artist": "Blu DeTiger",
+        "title": "N.Y. Baby"
+      },
+      {
+        "artist": "Bob Dylan",
+        "title": "The Rolling Thunder Revue: The 1976 Live Recordings"
+      },
+      {
+        "artist": "Boys Noize",
+        "title": "7llvsion"
+      },
+      {
+        "artist": "Bryan Adams",
+        "title": "How's It Goin"
+      },
+      {
+        "artist": "Carnifex",
+        "title": "More Than Misery"
+      },
+      {
+        "artist": "Chastity Belt",
+        "title": "All My Friends"
+      },
+      {
+        "artist": "Comeback Kid",
+        "title": "Chosen Hell"
+      },
+      {
+        "artist": "Computerwife",
+        "title": "Born from a Wish"
+      },
+      {
+        "artist": "Cult of Luna",
+        "title": "In the Shadow of Your Shadow"
+      },
+      {
+        "artist": "Current Joys",
+        "title": "Rosebud"
+      },
+      {
+        "artist": "Déyyess",
+        "title": "Well I Might Just Die"
+      },
+      {
+        "artist": "Distant",
+        "title": "Into Despair"
+      },
+      {
+        "artist": "Django Django",
+        "title": "Doveland"
+      },
+      {
+        "artist": "Do Nothing",
+        "title": "Friend World"
+      },
+      {
+        "artist": "Dove Cameron",
+        "title": "Final Girl"
+      },
+      {
+        "artist": "Extol",
+        "title": "Aura of Decay"
+      },
+      {
+        "artist": "Florence and the Machine",
+        "title": "Everybody Scream Tour Live"
+      },
+      {
+        "artist": "Gilbert O'Sullivan",
+        "title": "On the Record"
+      },
+      {
+        "artist": "Hatebreed",
+        "title": "Fatal Paradox"
+      },
+      {
+        "artist": "Hypno5e",
+        "title": "Trame Noire"
+      },
+      {
+        "artist": "Jack Harlow",
+        "title": "Sweet Action II"
+      },
+      {
+        "artist": "James Blunt",
+        "title": "Airplane Mode"
+      },
+      {
+        "artist": "Jesse Jo Stark",
+        "title": "Muse"
+      },
+      {
+        "artist": "Jim Jarmusch and Jozef van Wissem",
+        "title": "Bocca di Lupo"
+      },
+      {
+        "artist": "Jim Jarmusch and Jozef van Wissem",
+        "title": "Mouth of the Wolf"
+      },
+      {
+        "artist": "Katie Gregson-MacLeod",
+        "title": "Albatross"
+      },
+      {
+        "artist": "Kings of Leon",
+        "title": "O My Beloved"
+      },
+      {
+        "artist": "Lil Baby",
+        "title": "Fresh"
+      },
+      {
+        "artist": "Little Angels",
+        "title": "Big Bad & Back EP"
+      },
+      {
+        "artist": "Midnight",
+        "title": "Satanic Attack Live!"
+      },
+      {
+        "artist": "Naked Raygun",
+        "title": "Live at Riot Fest"
+      },
+      {
+        "artist": "Natalie Bergman",
+        "title": "I Killed a North American Songbird"
+      },
+      {
+        "artist": "Odette",
+        "title": "Blink"
+      },
+      {
+        "artist": "Oso Oso",
+        "title": "An Exchange of Information"
+      },
+      {
+        "artist": "Prong",
+        "title": "Prong"
+      },
+      {
+        "artist": "Party Dozen",
+        "title": "21 Bum Salute"
+      },
+      {
+        "artist": "Passenger",
+        "title": "Wild Love"
+      },
+      {
+        "artist": "Resa Saffa Park",
+        "title": "Kendra"
+      },
+      {
+        "artist": "Rex Orange County",
+        "title": "Dream Fatigue"
+      },
+      {
+        "artist": "Robert Grace",
+        "title": "My Fathers Son"
+      },
+      {
+        "artist": "La Roux",
+        "title": "Old Flames"
+      },
+      {
+        "artist": "Sam Barber",
+        "title": "The Outlier"
+      },
+      {
+        "artist": "SATCHVAI Band",
+        "title": "The Sea of Emotion"
+      },
+      {
+        "artist": "Shygirl",
+        "title": "Swallow!"
+      },
+      {
+        "artist": "Skepta",
+        "title": "The Fork and Knife"
+      },
+      {
+        "artist": "Spanish Love Songs",
+        "title": "Future Nausea"
+      },
+      {
+        "artist": "Steven Wilson",
+        "title": "Requiem for a Village"
+      },
+      {
+        "artist": "Straw Man Army",
+        "title": "True North"
+      },
+      {
+        "artist": "Sufjan Stevens",
+        "title": "Worst Christmas Ever!"
+      },
+      {
+        "artist": "Thrown",
+        "title": "Unwanted"
+      },
+      {
+        "artist": "Tove Styrke",
+        "title": "I Thought This Story Wasn't About Me"
+      },
+      {
+        "artist": "Trollfest",
+        "title": "Trollywood"
+      },
+      {
+        "artist": "TV Priest",
+        "title": "Cartoons"
+      },
+      {
+        "artist": "Twisted Teens",
+        "title": "The Holy Cross Tigers"
+      },
+      {
+        "artist": "Willi Carlisle",
+        "title": "The Universal Bubba"
+      },
+      {
+        "artist": "Yoo Doo Right",
+        "title": "Build and Rest by the Shepherd's Light"
+      }
+    ]
+  },
+  {
     "date": "2026-10-31",
     "label": "Week of October 25–31, 2026",
     "albums": [
